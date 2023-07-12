@@ -1,16 +1,19 @@
-### Hi there 👋
+## hi there 👋
+I'm **bahman Habibzadeh**, the **Technical Manage** and **Backend Developer** at <img src="https://dadekavweb.ir/addHomeScreen.png" alt="Dadekavweb logo" style="width:25px;display:inline-block;"/> **Dadekavweb**. I have history of working as backend developer for **over 4 years** and I'm proficient in **PHP, Laravel, MySQL, Python, Django and Django REST Framework**.
 
-<!--
-**thePowerOfCreation21/thePowerOfCreation21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building scalable and reliable backend systems.
 
-Here are some ideas to get you started:
+**Technologies:**
+- PHP
+- Laravel
+- Python
+- Django
+- Django REST Framework
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- Backend development
+- Software architecture
+- API development
+- Unit testing
+- Continous integration and deployment
