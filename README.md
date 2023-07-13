@@ -6,6 +6,7 @@ I'm passionate about building scalable and reliable backend systems.
 **Technologies:**
 - PHP
 - Laravel
+- MySQL
 - Python
 - Django
 - Django REST Framework
